@@ -52,6 +52,10 @@ This is a React-based application that simulates a chessboard. Users can click o
    - The selected square will highlight diagonally connected squares.
    - Use the "Undo" button to revert to the previous selection.
 
+## Deployment
+
+You can view the live version of this project at: `https://remarkable-khapse-c6b216.netlify.app/`
+
 ## Folder Structure
 
 - `src/`
