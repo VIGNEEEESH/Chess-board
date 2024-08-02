@@ -22,7 +22,7 @@ This is a React-based application that simulates a chessboard. Users can click o
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/chessboard-app.git
+   git clone https://github.com/VIGNEEEESH/Chess-board.git
    ```
 
 2. **Navigate to the project directory:**
