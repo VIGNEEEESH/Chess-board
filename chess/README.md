@@ -77,10 +77,6 @@ This is a React-based application that simulates a chessboard. Users can click o
 5. Push to the branch (`git push origin feature/your-feature`).
 6. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - The project uses [React](https://reactjs.org/) for building the UI.
