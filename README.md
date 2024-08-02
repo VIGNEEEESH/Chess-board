@@ -1,4 +1,4 @@
-[# Chessboard React App
+# Chessboard React App
 
 ## Description
 
